@@ -1,0 +1,35 @@
+{
+  "title": {
+    "addNotice": "Add Notice",
+    "editNotice": "Edit Notice",
+    "delNotice": "Delete Notice",
+    "listNotice": "Notice List"
+  },
+  "label": {
+    "noticeId": "Id",
+    "noticeTitle": "Title",
+    "noticeType": "Type",
+    "createBy": "Created By",
+    "status": "Status",
+    "remark": "Remark",
+    "noticeContent": "Content",
+    "createTime": "Create Time"
+  },
+  "placeholder": {
+    "noticeTitle": "Please enter notice title",
+    "noticeType": "Please select notice type",
+    "noticeContent": "Please enter notice content",
+    "createBy": "Please enter operator"
+  },
+  "tip": {
+    "addSuccess": "Notice added successfully",
+    "editSuccess": "Notice edited successfully",
+    "delSuccess": "Notice deleted successfully"
+  },
+  "dict": {
+    "normal": "Normal",
+    "close": "Close",
+    "notice": "Notice",
+    "announcement": "Announcement"
+  }
+}

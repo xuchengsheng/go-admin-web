@@ -1,0 +1,33 @@
+{
+  "title": {
+    "addPost": "Add Post",
+    "editPost": "Edit Post",
+    "delPost": "Delete Post",
+    "listPost": "Post List"
+  },
+  "label": {
+    "postId": "Post Id",
+    "postName": "Post Name",
+    "postCode": "Post Code",
+    "postSort": "Post Order",
+    "status": "Post Status",
+    "remark": "Post Remark",
+    "createTime": "Create Time"
+  },
+  "placeholder": {
+    "postName": "Please enter post name",
+    "postCode": "Please enter post code",
+    "postSort": "Please enter post order",
+    "status": "Please select post status",
+    "remark": "Please enter remark"
+  },
+  "tip": {
+    "addSuccess": "Post added successfully",
+    "editSuccess": "Post edited successfully",
+    "delSuccess": "Post deleted successfully"
+  },
+  "dict": {
+    "normal": "Normal",
+    "disable": "Disable"
+  }
+}

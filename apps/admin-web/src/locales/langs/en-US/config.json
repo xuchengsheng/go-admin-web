@@ -1,0 +1,35 @@
+{
+  "title": {
+    "addConfig": "Add Config",
+    "editConfig": "Edit Config",
+    "delConfig": "Delete Config",
+    "listConfig": "Config List",
+    "refreshConfig": "Refresh Config"
+  },
+  "label": {
+    "configId": "Config Id",
+    "configName": "Config Name",
+    "configKey": "Config Key",
+    "configValue": "Config Value",
+    "configType": "Built-in",
+    "remark": "Remark",
+    "createTime": "Create Time"
+  },
+  "placeholder": {
+    "configName": "Please enter config name",
+    "configKey": "Please enter config key",
+    "configValue": "Please enter config value",
+    "configType": "Please select system built-in",
+    "remark": "Please enter remark"
+  },
+  "tip": {
+    "addSuccess": "Config added successfully",
+    "editSuccess": "Config edited successfully",
+    "delSuccess": "Config deleted successfully",
+    "refreshCacheSuccess": "Refresh cache successfully"
+  },
+  "dict": {
+    "yes": "Yes",
+    "no": "No"
+  }
+}

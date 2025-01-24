@@ -1,0 +1,37 @@
+{
+  "title": {
+    "addNotice": "新增通知",
+    "editNotice": "修改通知",
+    "delNotice": "删除通知",
+    "listNotice": "通知列表"
+  },
+  "label": {
+    "noticeId": "公告编号",
+    "noticeTitle": "公告标题",
+    "noticeType": "公告类型",
+    "noticeContent": "公告内容",
+    "createBy": "操作人员",
+    "status": "公告状态",
+    "createTime": "创建时间",
+    "remark": "公告备注"
+  },
+  "placeholder": {
+    "noticeTitle": "请输入公告标题",
+    "noticeType": "请选择公告类型",
+    "noticeContent": "请输入公告内容",
+    "createBy": "请输入操作人员",
+    "status": "请选择公告状态",
+    "remark": "请输入备注"
+  },
+  "tip": {
+    "addSuccess": "新增公告成功",
+    "editSuccess": "修改公告成功",
+    "delSuccess": "删除公告成功"
+  },
+  "dict": {
+    "normal": "正常",
+    "close": "关闭",
+    "notice": "通知",
+    "announcement": "公告"
+  }
+}

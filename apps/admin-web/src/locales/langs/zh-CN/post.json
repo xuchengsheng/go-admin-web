@@ -1,0 +1,33 @@
+{
+  "title": {
+    "addPost": "新增岗位",
+    "editPost": "修改岗位",
+    "delPost": "删除岗位",
+    "listPost": "岗位列表"
+  },
+  "label": {
+    "postId": "岗位编号",
+    "postName": "岗位名称",
+    "postCode": "岗位编码",
+    "postSort": "岗位顺序",
+    "status": "岗位状态",
+    "remark": "岗位备注",
+    "createTime": "创建时间"
+  },
+  "placeholder": {
+    "postName": "请输入岗位名称",
+    "postCode": "请输入岗位编码",
+    "postSort": "请输入岗位顺序",
+    "status": "请选择岗位状态",
+    "remark": "请输入备注"
+  },
+  "tip": {
+    "addSuccess": "新增岗位成功",
+    "editSuccess": "修改岗位成功",
+    "delSuccess": "删除岗位成功"
+  },
+  "dict": {
+    "normal": "正常",
+    "disable": "停用"
+  }
+}

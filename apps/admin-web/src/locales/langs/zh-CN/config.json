@@ -1,0 +1,36 @@
+{
+  "title": {
+    "addConfig": "新增参数",
+    "editConfig": "修改参数",
+    "delConfig": "删除参数",
+    "listConfig": "参数列表",
+    "refreshConfig": "刷新缓存"
+  },
+  "label": {
+    "configId": "参数主键",
+    "configName": "参数名称",
+    "configKey": "参数键名",
+    "configValue": "参数键值",
+    "configType": "系统内置",
+    "remark": "备注",
+    "createTime": "创建时间"
+  },
+  "placeholder": {
+    "configName": "请输入参数名称",
+    "configKey": "请输入参数键名",
+    "configValue": "请输入参数键值",
+    "configType": "请选择系统内置",
+    "remark": "请输入备注",
+    "createTime": "请选择创建时间"
+  },
+  "tip": {
+    "addSuccess": "新增参数成功",
+    "editSuccess": "修改参数成功",
+    "delSuccess": "删除参数成功",
+    "refreshCacheSuccess": "刷新缓存成功"
+  },
+  "dict": {
+    "yes": "是",
+    "no": "否"
+  }
+}
