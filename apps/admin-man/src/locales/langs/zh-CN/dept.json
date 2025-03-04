@@ -1,0 +1,38 @@
+{
+  "title": {
+    "addDept": "新增部门",
+    "editDept": "修改部门",
+    "delDept": "删除部门",
+    "listDept": "部门列表"
+  },
+  "label": {
+    "deptId": "部门编号",
+    "deptName": "部门名称",
+    "status": "状态",
+    "orderNum": "显示顺序",
+    "leader": "负责人",
+    "parentDept": "上级部门",
+    "phone": "联系电话",
+    "email": "邮箱"
+  },
+  "placeholder": {
+    "deptName": "请输入部门名称",
+    "status": "请选择部门状态",
+    "parentDept": "请选择上级部门",
+    "orderNum": "请输入部门顺序",
+    "leader": "请输入部门负责人",
+    "phone": "请输入联系电话",
+    "email": "请输入邮箱"
+  },
+  "tip": {
+    "addSuccess": "新增部门成功",
+    "editSuccess": "修改部门成功",
+    "delSuccess": "删除部门成功"
+  },
+  "dict": {
+    "normal": "正常",
+    "close": "关闭",
+    "notice": "部门",
+    "announcement": "部门"
+  }
+}

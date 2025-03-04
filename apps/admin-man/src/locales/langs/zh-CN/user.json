@@ -1,0 +1,45 @@
+{
+  "title": {
+    "addUser": "新增用户",
+    "editUser": "修改用户",
+    "delUser": "删除用户",
+    "listUser": "用户列表"
+  },
+  "label": {
+    "userId": "用户编号",
+    "userName": "用户名称",
+    "nickName": "用户昵称",
+    "deptName": "部门名称",
+    "password": "用户密码",
+    "phonenumber": "手机号码",
+    "sex": "性别",
+    "post": "岗位",
+    "role": "角色",
+    "status": "状态",
+    "createTime": "创建时间",
+    "remark": "备注"
+  },
+  "placeholder": {
+    "userName": "请输入用户名称",
+    "phonenumber": "请输入手机号码",
+    "nickName": "请输入用户昵称",
+    "status": "请选择状态",
+    "deptName": "请选择部门名称",
+    "password": "请输入用户密码",
+    "sex": "请选择性别",
+    "post": "请选择岗位",
+    "role": " 请选择角色",
+    "remark": "请输入备注"
+  },
+  "tip": {
+    "addSuccess": "新增用户成功",
+    "editSuccess": "修改用户成功",
+    "delSuccess": "删除用户成功"
+  },
+  "dict": {
+    "normal": "正常",
+    "close": "关闭",
+    "notice": "部门",
+    "announcement": "部门"
+  }
+}

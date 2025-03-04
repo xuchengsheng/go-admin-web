@@ -1,9 +1,0 @@
-{
-  "delConfirm": "Are you sure you want to delete 【{ name }】?",
-  "operate": "Action",
-  "add": "Add",
-  "del": "Delete",
-  "edit": "Edit",
-  "beginTime": "Begin date",
-  "endTime": "End date"
-}

@@ -40,8 +40,6 @@ function defineApplicationConfig(userConfigPromise?: DefineApplicationOptions) {
       isBuild,
       license: true,
       mode,
-      nitroMock: !isBuild,
-      nitroMockOptions: {},
       print: !isBuild,
       printInfoMap: {
         'Vben Admin Docs': 'https://doc.vben.pro',
@@ -86,7 +84,7 @@ function defineApplicationConfig(userConfigPromise?: DefineApplicationOptions) {
           clientFiles: [
             './index.html',
             './src/bootstrap.ts',
-            './src/{views,layouts,router,store,api,adapter}/*',
+            './src/{views,layouts,router,store,api,adapter,component}/*',
           ],
         },
       },

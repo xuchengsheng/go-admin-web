@@ -1,8 +1,4 @@
-import type {
-  NormalizedOutputOptions,
-  OutputBundle,
-  OutputChunk,
-} from 'rollup';
+import type { OutputBundle, OutputChunk } from 'rollup';
 import type { PluginOption } from 'vite';
 
 import { EOL } from 'node:os';
@@ -27,21 +23,19 @@ async function viteLicensePlugin(
     apply: 'build',
     enforce: 'post',
     generateBundle: {
-      handler: (_options: NormalizedOutputOptions, bundle: OutputBundle) => {
+      handler: (_options, bundle: OutputBundle) => {
         const date = dateUtil().format('YYYY-MM-DD ');
         const copyrightText = `/*!
-  * Vben Admin
-  * Version: ${version}
-  * Author: vben
-  * Copyright (C) 2024 Vben
-  * License: MIT License
-  * Description: ${description}
-  * Date Created: ${date}
-  * Homepage: ${homepage}
-  * Contact: ann.vben@gmail.com
-*/
-              `.trim();
-
+                                * Vben Admin
+                                * Version: ${version}
+                                * Author: vben
+                                * Copyright (C) 2024 Vben
+                                * License: MIT License
+                                * Description: ${description}
+                                * Date Created: ${date}
+                                * Homepage: ${homepage}
+                                * Contact: ann.vben@gmail.com
+                              */`.trim();
         for (const [, fileContent] of Object.entries(bundle)) {
           if (fileContent.type === 'chunk' && fileContent.isEntry) {
             const chunkContent = fileContent as OutputChunk;

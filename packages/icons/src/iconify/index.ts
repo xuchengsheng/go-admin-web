@@ -21,3 +21,9 @@ export const IconEdit = createIconifyIcon('iconamoon:edit-light');
 export const IconAdd = createIconifyIcon('ic:round-add');
 
 export const IconRefresh = createIconifyIcon('mdi:refresh');
+
+export const IconExpand = createIconifyIcon('lets-icons:expand-right-double');
+
+export const IconFold = createIconifyIcon('lets-icons:expand-down-double');
+
+export const IconSearch = createIconifyIcon('mingcute:search-line');
